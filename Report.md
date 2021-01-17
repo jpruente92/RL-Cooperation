@@ -49,7 +49,7 @@ The following figure displays the score of the agent during the learning process
 ![alt text](./tennis_0.png)
 
 The following gif file displays a version that was trained even further:
-![](tennis.gif)
+![](Scores/tennis.gif)
 
  
 
@@ -57,7 +57,6 @@ The following gif file displays a version that was trained even further:
 ### Future Improvements:
 - using a prioritized experience replay buffer
 - using bootstrapping
-- convolutional layers might the improve agent
     
     
 
